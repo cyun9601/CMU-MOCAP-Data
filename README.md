@@ -1,4 +1,4 @@
-Our main purpose is various processing of skeleton data. (i.e. Process data using only a few joints, normalize, Remove global translation, Missing marker)  
+Our main purpose is various processing of skeleton data. (i.e. Process data using only a few joints, normalize, Remove global translation, Missing marker).
 We worked on the asf/amc format of CMU mocap dataset, and we will going to add other data as well.
 
 
@@ -17,8 +17,8 @@ We worked on the asf/amc format of CMU mocap dataset, and we will going to add o
 ## Environment
 - Python == 3.7.8
 - numpy == 1.19.5
-- transforms3d
-- matplotlib
+- transforms3d == 0.3.1
+- matplotlib == 3.4.2
 
 
 ## Directory Structure
