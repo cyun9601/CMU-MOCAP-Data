@@ -21,13 +21,13 @@
 
 - AMCParser: To parse a asf and amc files. It is from https://github.com/CalciferZh/AMCParser.
 - config: Configuration of main.py.
- - major
-  - raw_data_name: Dataset of raw data.
-  - raw_data_type: Data type of raw data.
-  - num_joint: The number of joints of selected raw data.
-  - node_mask: Node number to remove.
-  - max_frame: frame size.
-  - debug: Use only three raw data files when true.
+  - major
+    - raw_data_name: Dataset of raw data.
+    - raw_data_type: Data type of raw data.
+    - num_joint: The number of joints of selected raw data.
+    - node_mask: Node number to remove.
+    - max_frame: frame size.
+    - debug: Use only three raw data files when true.
 - data: Directory of raw dataset. 
 - processed_data: Directory of processed data. 
 - main.py: Process and save data.
