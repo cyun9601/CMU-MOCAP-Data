@@ -1,3 +1,7 @@
+Our main purpose is various processing of skeleton data. (i.e. Process data using only a few joints, normalize, Remove global translation, Missing marker)  
+We worked on the asf/amc format of CMU mocap dataset, and we will going to add other data as well.
+
+
 ## CMU MOCAP Data
 
 - We use the <a href='http://mocap.cs.cmu.edu/'>CMU Motion Capture Database</a> with 31 markers attached to actors, captured with an optical motion capture system. This data is converted from the joint angle representation in the original dataset to the 3D joint position.
